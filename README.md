@@ -1,6 +1,6 @@
-# Aturux-OS
+# AturuxOS-LXQT
 
-Aturux-OS ist a personal modification (added support for Deepin Desktop Environment (DDE) with some extra software) of the original arch-setup:
+AturuxOS-LXQT is a personal modification (slight modificitacion of the LXQT desktop) of the original arch-setup:
 https://github.com/jorgeluiscarrillo/arch-setup
 
 arch-setup is a console menu based (TUI) install script for Arch Linux.
@@ -57,11 +57,10 @@ Users may choose to install a complete desktop environment or a minimal window m
 * Desktop Environments
   * Budgie
   * Cinnamon
-  * Deepin (with some extra software!)
   * GNOME
   * KDE Plasma
   * LXDE
-  * LXQT
+  * LXQT (Modified)
   * MATE
   * Xfce
 * Window Managers
